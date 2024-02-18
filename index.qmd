@@ -1,0 +1,36 @@
+---
+title: "Zijie's Website"
+format: 
+  html:
+    theme: cerulean
+    toc: false
+editor: visual
+---
+
+# Welcome to my channel!
+
+## About Me
+
+![](/img/WechatIMG238.jpg){.profile-photo}
+
+In today's digital era, I deeply recognize the immense potential of data analysis. The rise of popular applications like TikTok and YouTube in recent years signifies that predicting user preferences through data analysis has become a crucial strategy driving content consumption. This personalized, data-driven approach not only profoundly influences our daily entertainment but also plays an increasingly vital role in the realms of business and society. With a keen interest and confidence, I am eager to gain a deeper understanding and actively engage in the future of data analysis.
+
+Born in Guangdong, a region that blends rich cultural elements and attracts people from around the world, I completed my undergraduate studies at Guangzhou College of Technology and Business, majoring in digital media. However, with the continuous development of various editing tools, the knowledge acquired in the field of digital media seems increasingly susceptible to being easily replicated by modern software. Hence, I have decided to embrace a new challenge by transitioning to learn data analysis, a burgeoning skill that promises to lay a more robust foundation for my professional development.
+
+During the current semester at George Mason University, I have acquired substantial knowledge, and I am highly satisfied with the expertise imparted by the professors. Therefore, I am eager to join George Mason's master's program in data analysis, where I anticipate gaining even more in-depth insights into this field.
+
+I am particularly fond of and receptive to the diverse culture in the United States. The people here are courteous, and I have formed many meaningful friendships. In conclusion, my goal is to successfully complete a Master's in Data Analysis, leveraging the diverse cultural experiences gained in the U.S. and the knowledge acquired at George Mason University. Ultimately, I aim to secure a fulfilling job aligned with my skill set in data analysis.
+
+## My project
+
+Visualization
+
+## Contact Information about me
+
+Contact Information
+
+-   Email: [your.email\@example.com](mailto:your.email@example.com)
+-   LinkedIn: [yourprofile](https://www.linkedin.com/in/yourprofile)
+-   GitHub: [yourusername](https://github.com/yourusername)
+
+\`\`\`{js} function showMessage() { document.getElementById("messageArea").innerText = "Feel Free To Contact Me"; }

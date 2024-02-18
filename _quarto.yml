@@ -1,0 +1,11 @@
+title: "Zijie's Website"
+format: html
+editor: visual
+
+html:
+  includes:
+    in-header: 
+      - styles.css
+
+page-layout: article
+
